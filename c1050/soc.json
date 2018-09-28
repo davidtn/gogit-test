@@ -4,21 +4,20 @@
   "customer_id": "blah0001",
   "customer_name": "ACME Enterprises GmbH",
   "daily_volume": 102400,
-  "daily_users": 7500,
+  "daily_users": 20500,
   "billing_model": "budget_tier_100G_disc_4",
   "administrator": {
-    "name": "David Griffiths",
+    "name": "David E.H. Griffiths",
     "email": "david.griffiths@trustnetworks.com"
   },
   "credential_delivery": "cred-svc",
   "location_policy": "eu",
+  "country": "de",
   "options": {
     "include": {
-      "openvpn": true,
       "analytics": true,
       "addr-alloc": true
     },
     "channel": "beta"
-  },
-  "country": "de"
+  }
 }
