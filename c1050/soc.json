@@ -2,7 +2,7 @@
   "id": "c1050",
   "name": "Schweizer Labors",
   "customer_id": "blah0001",
-  "customer_name": "ACME Enterprises GmbH",
+  "customer_name": "Cadburys",
   "daily_volume": 102400,
   "daily_users": 20500,
   "billing_model": "budget_tier_100G_disc_4",
