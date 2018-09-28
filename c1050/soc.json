@@ -12,5 +12,13 @@
   },
   "credential_delivery": "cred-svc",
   "location_policy": "eu",
+  "options": {
+    "include": {
+      "openvpn": true,
+      "analytics": true,
+      "addr-alloc": true
+    },
+    "channel": "beta"
+  },
   "country": "de"
 }
