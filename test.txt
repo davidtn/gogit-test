@@ -1,0 +1,4 @@
+{
+  "Name": "Hello",
+  "Value": 42
+}
